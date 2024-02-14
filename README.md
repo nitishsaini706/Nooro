@@ -17,9 +17,7 @@ Installing
 A step-by-step series of examples that tell you how to get a development environment running:
 
 ### Clone the repository
-bash
-Copy code
-git clone [Noro](https://github.com/nitishsaini706/Nooro)
+git clone https://github.com/nitishsaini706/Nooro
 cd Nooro
 Install dependencies
 npm install
