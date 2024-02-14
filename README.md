@@ -17,10 +17,10 @@ Installing
 A step-by-step series of examples that tell you how to get a development environment running:
 
 ### Clone the repository
-git clone https://github.com/nitishsaini706/Nooro
-cd Nooro
+- git clone https://github.com/nitishsaini706/Nooro
+- cd Nooro
 Install dependencies
-npm install
+- npm install
 
 
 Configure OAuth 2.0 credentials
