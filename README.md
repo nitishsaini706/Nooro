@@ -19,7 +19,7 @@ A step-by-step series of examples that tell you how to get a development environ
 ### Clone the repository
 - git clone https://github.com/nitishsaini706/Nooro
 - cd Nooro
-Install dependencies
+#### Install dependencies
 - npm install
 
 
