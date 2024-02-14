@@ -28,5 +28,11 @@ Place your credentials.json file in the root of the project directory and not sr
 Update CREDENTIALS_PATH and TOKEN_PATH in your application to match your credentials file and desired token storage path.
 Consider setting environment variables for sensitive information such as client IDs, client secrets, and refresh tokens.
 
-Running the Application
-npm start
+#### Running the Application
+- npm start
+
+#### End points
+- /  : get api to check wether server is running or not
+- /download - post api and in body add {"fileId":"id of video" , "destinationFolderId":"destination folder to upload"}
+- /progress - get api to get progress of current quiz
+  
